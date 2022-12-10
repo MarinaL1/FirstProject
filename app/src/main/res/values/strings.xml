@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirstProject</string>
+    <string name="meddu">MEDDU</string>
+    <string name="login">LOGIN</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="forget_you_password">Forget you password</string>
+    <string name="don_t_have_an_account_sing_up">Don\'t have an account? Sing up</string>
+</resources>
